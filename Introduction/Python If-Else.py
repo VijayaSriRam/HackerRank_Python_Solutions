@@ -22,7 +22,7 @@ elif (n % 2 == 0) and n > 20:
 #Space Complexity = O(1)
 
 '''
-Edge Cases:
+#Future Work:
     Although the code works, it's better to modify the code further using the try-except statement
     based on the constraints specified.
 '''
