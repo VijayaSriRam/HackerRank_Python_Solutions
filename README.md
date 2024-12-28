@@ -10,3 +10,4 @@
     - [Arithmetic Operators](Introduction/Arithmetic%20Operators.py)
     - [Python Division](Introduction/Python%20Division.py)
     - [Loops](Introduction/Loops.py)
+    - [Print Function](Introduction/Print%20Function.py)
