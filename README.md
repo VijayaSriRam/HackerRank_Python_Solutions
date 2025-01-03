@@ -11,3 +11,4 @@
     - [Python Division](Introduction/Python%20Division.py)
     - [Loops](Introduction/Loops.py)
     - [Print Function](Introduction/Print%20Function.py)
+    - [Write a function](Introduction/Write%20a%20function.py)
