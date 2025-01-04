@@ -12,3 +12,5 @@
     - [Loops](Introduction/Loops.py)
     - [Print Function](Introduction/Print%20Function.py)
     - [Write a function](Introduction/Write%20a%20function.py)
+- Basic Data Types
+    - [Find the Runner-Up Score](Basic%20Data%20Types/Find%20the%20Runner-Up%20Score.py)
